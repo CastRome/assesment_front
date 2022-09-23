@@ -1,0 +1,12 @@
+.CardContainer{
+    display:flex;
+    width:200px;
+    height:auto;
+    flex-wrap: wrap;
+    flex-direction: column;
+    border: solid black 1px;
+}
+h1{
+    margin:0;
+    padding:0;
+}
